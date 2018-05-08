@@ -1,0 +1,1 @@
+../../../Blessing_Island/Blessing_Island.uproject  /Game/HandheldARBP/Maps/HandheldARBlankMap -Messaging -SessionId=165A150149EDF8564050A6B52DC5DDC3 -SessionOwner="CCIT" -SessionName="Launch On Device" -iterative

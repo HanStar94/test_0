@@ -1,0 +1,10 @@
+Blessing_Island/AssetRegistry.bin
+Blessing_Island/Content/HandheldARBP/Blueprints/GameFramework/BP_ARGameMode.uasset
+Blessing_Island/Content/HandheldARBP/Blueprints/GameFramework/BP_ARGameMode.uexp
+Blessing_Island/Content/HandheldARBP/Blueprints/GameFramework/BP_ARPawn.uasset
+Blessing_Island/Content/HandheldARBP/Blueprints/GameFramework/BP_ARPawn.uexp
+Blessing_Island/Content/HandheldARBP/Blueprints/UI/BP_DebugMenu.uasset
+Blessing_Island/Content/HandheldARBP/Blueprints/UI/BP_DebugMenu.uexp
+Engine/GlobalShaderCache-GLSL_ES2.bin
+Manifest_NonUFSFiles_Android.txt
+Manifest_UFSFiles_Android.txt
